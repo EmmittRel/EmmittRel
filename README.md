@@ -4,11 +4,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my own development
-- 🌱 MernStack
+- 🔭 Thank you for visiting my repo
+- 🌱 MernStack - UI/UX - Fintech
 - 💬 Ask me about ...
 - 📫 How to reach me: pramitbakhrel.com.np
-- 😄 I love watching cricket and football
+- 😄 I love connecting with people
 - ⚡ Fun fact: Future Billionaire xDD
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmittRel&show_icons=true&theme=radical)
+- 
+
